@@ -1,1 +1,1 @@
-# this is for of Adan Alstons Template
+# This is a fork of Adan Alstons Portfolio Template
